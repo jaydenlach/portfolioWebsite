@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://marvelous-pasca-6ecf05.netlify.app/about.html</loc>
-    <lastmod>2023-03-27T12:33:40.106Z</lastmod>
+    <loc>https://jaydenlach.xyz/about.html</loc>
+    <lastmod>2023-03-28T14:48:57.940Z</lastmod>
   </url>
   <url>
-    <loc>https://marvelous-pasca-6ecf05.netlify.app/index.html</loc>
-    <lastmod>2023-03-27T12:33:41.594Z</lastmod>
+    <loc>https://jaydenlach.xyz/assignments.html</loc>
+    <lastmod>2023-03-28T14:48:58.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jaydenlach.xyz/index.html</loc>
+    <lastmod>2023-03-28T14:48:58.651Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jaydenlach.xyz/projects.html</loc>
+    <lastmod>2023-03-28T14:48:59.011Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jaydenlach.xyz/resume.html</loc>
+    <lastmod>2023-03-28T14:48:59.364Z</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,6 @@
+---
+title: "assignments"
+from: markdown+emoji
+---
+
+Bear with me :bear:. This page will soon be filled with the learnings from my various university courses and examples of my work through assignments.

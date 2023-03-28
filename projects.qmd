@@ -1,0 +1,6 @@
+---
+title: "Projects"
+from: markdown+emoji
+---
+
+Sorry. This page is currently unpopulated. Please come back soon when I am filled with personal projects :v:

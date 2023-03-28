@@ -2,15 +2,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am currently employed as a secondary mathematics and science teacher working in a public high school in Western Sydney. Additionally, I am studying a Master of Data Science (Professional) at James Cook University in the College of Science and Engineering\n\nPreviously\nMy previous study includes a Bachelor of Science (Mathematical Science) from Western Sydney University in the School of Computer, Data and Mathematical Sciences, and a Master of Teaching (Secondary) also from Western Sydney University, but in the School of Education.\n\n\nMy Data Science Journey\nMy journey into data science began when undertaking my Bachelor of Science. Several courses focused on skills relevant to data science including Applied Statistics, Regression Analysis and Experimental Design, Time Series and Forecasting, and my capstone project performing data analysis for a PhD student and his supervisor.\nLife as a teacher is filled with analysing data to improve your teaching practice and student outcomes, and this has inspired me to develop my skills and pursue a career in data science.\nIn my current studies, I am developing and refining my skills in statistics, analysis, and programming including technologies such as R, SQL, MATLAB, Python, and SAS, across courses including Database Systems, Programming and Data Analytics using Python, Data Mining, Machine Learning, as well as refining the fundamentals of data management, security, privacy, and ethics.\nI love learning and analysing all things data, and look forward to developing this site with projects and blogs as I progress through my journey into a data scientist."
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "assignments",
+    "section": "",
+    "text": "Bear with me 🐻. This page will soon be filled with the learnings from my various university courses and examples of my work through assignments."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jayden Lach",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Thanks for stopping by and visiting on my journey to becoming a data scientist and beyond. My goal for this site is to document my studies and to bring interesting data to life with stories, visualisations, reproducible code (hopefully 😶) and maybe a cat picture or two.\nPlease keep in mind, just like the projects and learning are a work in progress, so too is this site."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Sorry. This page is currently unpopulated. Please come back soon when I am filled with personal projects ✌️"
   }
 ]

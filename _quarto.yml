@@ -2,18 +2,43 @@ project:
   type: website
 
 website:
-  title: "My Site"
+  title: "Jayden Lach"
+  favicon: images/favicon-32x32.png
+  site-url: https://jaydenlach.xyz/
+  description: Personal website, portfolio and one-day, blog
+  repo-url: https://github.com/jaydenlach/portfolioWebsite
+  #image: images/logo.png
+  
+  
   navbar:
-    left:
+    logo: images/wideLogo.png
+    logo-alt: "A blue speech bubble containing different charts above the name Jayden Lach"
+    image-width: 400
+    image-height: 100
+    title: false
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: assignments.qmd
+        text: Learning
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: about.qmd
+        text: About
+  page-footer:
+    border: false
+    left: Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) | Hosted by [{{< iconify simple-icons netlify >}}](https://www.netlify.com)
+    right: © 2023 [Jayden Lach](/about)
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-editor: visual
-
+    toc: false
+    code-link: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    anchor-sections: true
+    highlight-style: monokai

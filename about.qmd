@@ -1,9 +1,18 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+I am currently employed as a secondary mathematics and science teacher working in a public high school in Western Sydney. Additionally, I am studying a Master of Data Science (Professional) at [James Cook University](https://www.jcu.edu.au/) in the [College of Science and Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
 
-```{r}
-1 + 1
-```
+
+### Previously
+My previous study includes a Bachelor of Science (Mathematical Science) from [Western Sydney University](https://www.westernsydney.edu.au/) in the [School of Computer, Data and Mathematical Sciences](https://www.westernsydney.edu.au/schools/socdms), and a Master of Teaching (Secondary) also from [Western Sydney University](https://www.westernsydney.edu.au/), but in the [School of Education](https://www.westernsydney.edu.au/schools/soed).
+
+### My Data Science Journey
+My journey into data science began when undertaking my Bachelor of Science. Several courses focused on skills relevant to data science including Applied Statistics, Regression Analysis and Experimental Design, Time Series and Forecasting, and my capstone project performing data analysis for a PhD student and his supervisor.
+
+Life as a teacher is filled with analysing data to improve your teaching practice and student outcomes, and this has inspired me to develop my skills and pursue a career in data science.
+
+In my current studies, I am developing and refining my skills in statistics, analysis, and programming including technologies such as R, SQL, MATLAB, Python, and SAS, across courses including Database Systems, Programming and Data Analytics using Python, Data Mining, Machine Learning, as well as refining the fundamentals of data management, security, privacy, and ethics.
+
+I love learning and analysing all things data, and look forward to developing this site with projects and blogs as I progress through my journey into a data scientist. 

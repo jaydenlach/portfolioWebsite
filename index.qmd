@@ -1,11 +1,8 @@
 ---
 title: "Jayden Lach"
+from: markdown+emoji
 ---
 
-This is a Quarto website.
+Thanks for stopping by and visiting on my journey to becoming a data scientist and beyond. My goal for this site is to document my studies and to bring interesting data to life with stories, visualisations, reproducible code (hopefully :no_mouth:) and maybe a cat picture or two.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Please keep in mind, just like the projects and learning are a work in progress, so too is this site.
