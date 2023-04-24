@@ -1,6 +1,14 @@
 ---
 title: "Jayden Lach"
 from: markdown+emoji
+about:
+  template: jolla
+  image: images/halfBody.webp
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/jaydenlach
+
 ---
 
 Thanks for stopping by and visiting on my journey to becoming a data scientist and beyond. My goal for this site is to document my studies and to bring interesting data to life with stories, visualisations, reproducible code (hopefully :no_mouth:) and maybe a cat picture or two.

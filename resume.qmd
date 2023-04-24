@@ -6,10 +6,8 @@ cv:
   pdf: "/documents/jaydenLachResumeOnlineVersion.pdf"
 ---
 
-
-
 ```{=html}
 <div>
-<iframe width="100%" height="800" src="/documents/jaydenLachResume.pdf#view=FitH"></iframe>
+<iframe width="100%" height="800" src="/documents/jaydenLachResumeOnlineVersion.pdf#view=FitH"></iframe>
 </div>
 ```

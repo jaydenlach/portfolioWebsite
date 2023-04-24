@@ -16,6 +16,8 @@ website:
     image-width: 400
     image-height: 100
     title: false
+    background: "#f8f9fa"
+    foreground: "#646565"
     right:
       - href: index.qmd
         text: Home
